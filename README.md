@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Tableau, Power BI, AWS
+#### Technical Skills: Python, SQL, Tableau, Power BI, Excel, AWS
 
 ### Education
 - M.P.S. - Data Analytics | Pennsylvania State University (_May 2021_)
