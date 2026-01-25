@@ -1,4 +1,4 @@
-# Data Analyst
+# Analytics Engineer
 
 #### Technical Skills: Python, SQL, API Integration, ETL, LLMs, Streamlit, Tableau, Power BI, Excel, AWS
 
