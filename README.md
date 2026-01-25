@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, Power BI, AWS
 
 ### Education
-- M.P.S. - Data Analytics - Business Analytics | Pennsylvania State University (_2021_)
+- M.P.S. - Data Analytics | Pennsylvania State University (_2021_)
 - B.S. - Information Technology | University of Central Florida (_2016_)
 
 ### Certifications
