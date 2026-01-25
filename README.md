@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Tableau, Power BI, AWS
 
 ### Education
-- M.P.S - Data Analytics - Business Analytics | Pennsylvania State University (2021)
-- B.S - Information Technology | University of Central Florida (2016)
+- M.P.S. - Data Analytics - Business Analytics | Pennsylvania State University (2021)
+- B.S. - Information Technology | University of Central Florida (2016)
 
 ### Certifications
 - Alteryx Designer Core (Dec 2024)
